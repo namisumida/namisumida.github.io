@@ -23,14 +23,16 @@ p {
 
 #bio {
   max-width: 500px;
-  margin-top: 100px;
+  margin-top: 80px;
 }
 #work {
   max-width: 500px;
-  margin-top: 100px;
+  margin-top: 80px;
+  margin-bottom: 150px;
 }
 #data-visualizations {
   margin-top: 30px;
+  margin-bottom: 80px;
 }
 
 ul {
