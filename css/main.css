@@ -73,6 +73,10 @@ a {
   border-bottom: 1px solid rgb(112,118,54);
   font-family: radnika-medium;
 }
+.a4 {
+  margin:0;
+  font-family: radnika-bold;
+}
 h4 {
   margin:0;
   font-family: radnika-bold;
