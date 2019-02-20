@@ -16,10 +16,11 @@
 }
 body,html {
   font-family: radnika-light;
+  max-width: 600px;
+  margin: auto;
 }
 section {
   position: relative;
-  margin: 0 auto;
 }
 h2 {
   font-family: radnika-bold;
@@ -41,11 +42,9 @@ p {
 }
 
 #bio {
-  max-width: 500px;
   margin-top: 60px;
 }
 #work {
-  max-width: 500px;
   margin-top: 50px;
   margin-bottom: 150px;
 }
@@ -72,10 +71,6 @@ a {
   color: rgb(112,118,54);
   border-bottom: 1px solid rgb(112,118,54);
   font-family: radnika-medium;
-}
-.a4 {
-  margin:0;
-  font-family: radnika-bold;
 }
 h4 {
   margin:0;
