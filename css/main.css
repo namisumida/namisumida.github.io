@@ -18,6 +18,7 @@ body,html {
   font-family: radnika-light;
   max-width: 600px;
   margin: auto;
+  padding: 1em;
 }
 section {
   position: relative;
