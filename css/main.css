@@ -25,10 +25,6 @@ p {
 #bio {
   margin-top: 40px;
 }
-#aboutme-img {
-  float: left;
-  margin-right: 20px;
-}
 #work {
   margin-top: 50px;
   margin-bottom: 150px;
@@ -82,4 +78,24 @@ h4 {
 }
 .explanation {
   margin-top: 0;
+}
+@media screen and (min-width:521px) {
+  #aboutme-img {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 40px;
+  }
+}
+@media screen and (min-width:469px) and (max-width:520px) {
+  #aboutme-img {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 50px;
+  }
+}
+@media screen and (max-width:468px) {
+  #aboutme-img {
+    margin: auto;
+    display: block;
+  }
 }
