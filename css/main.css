@@ -23,7 +23,11 @@ p {
 }
 
 #bio {
-  margin-top: 60px;
+  margin-top: 40px;
+}
+#aboutme-img {
+  float: left;
+  margin-right: 20px;
 }
 #work {
   margin-top: 50px;
