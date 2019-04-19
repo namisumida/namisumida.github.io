@@ -27,34 +27,47 @@ p {
   border-top: 3px solid black;
 }
 #work {
-  margin-top: 60px;
+  margin-top: 50px;
   margin-bottom: 150px;
 }
 #data-visualizations {
   margin-top: 20px;
-  margin-bottom: 50px;
+  margin-bottom: 0px;
   border-top: 3px solid black;
 }
 #reports {
   border-top: 3px solid black;
+  margin-top: 50px;
 }
 ul {
   list-style-type: none;
   padding: 0;
   margin-top: 0;
+  margin-bottom: 0;
 }
-li {
+.item {
   margin: .5rem 0 .75rem 0;
   line-height: 1.7;
   margin-top: 35px;
   margin-bottom: 0;
+  display: flex;
+}
+.viz-item {
+  padding-top: 35px;
+  border-top: 1px dotted #bbbbbb;
+}
+.viz-item:first-child {
+  border-top: none;
+  padding-top: 20px;
+}
+.report-item {
+  margin-top: 30px;
 }
 a {
   font-size: 17px;
   border: none;
   line-height: 1;
-  text-decoration: none;
-  color: #7D6298;
+  color: black;
   font-weight: 700;
 }
 h2 {
@@ -72,43 +85,55 @@ h4 {
 .date {
   float: right;
 }
-.secondary-list {
-  list-style-type: square;
-  padding: 0;
-  margin:0;
-}
-.secondary-item {
-  position: relative;
-  margin: 0;
-  line-height: 1.7;
-  left: 20px;
-}
-.secondary-link {
-  font-size: 15px;
-}
 .tertiary-link {
   font-size: 14px;
 }
 .explanation {
   margin-top: 0;
+  margin-bottom: 0;
 }
-@media screen and (min-width:521px) {
+@media screen and (min-width:633px) {
   #aboutme-img {
     float: left;
     margin-right: 20px;
     margin-bottom: 40px;
   }
+  .icon-img {
+    width: 180px;
+    margin-right: 30px;
+  }
+  .item-group {
+    height: 290px;
+  }
 }
-@media screen and (min-width:469px) and (max-width:520px) {
+@media screen and (min-width:554px) and (max-width:632px) {
   #aboutme-img {
     float: left;
     margin-right: 20px;
     margin-bottom: 50px;
+  }
+  .icon-img {
+    width: 180px;
+    margin-right: 30px;
+  }
+}
+@media screen and (min-width:469px) and (max-width:553px) {
+  #aboutme-img {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 50px;
+  }
+  .icon-img {
+    width: 180px;
+    margin-right: 30px;
   }
 }
 @media screen and (max-width:468px) {
   #aboutme-img {
     margin: auto;
     display: block;
+  }
+  .icon-img {
+    display: none;
   }
 }
