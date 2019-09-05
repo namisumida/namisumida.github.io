@@ -28,16 +28,8 @@ p {
 }
 #work {
   margin-top: 70px;
-  margin-bottom: 150px;
-}
-#dashboards {
-  margin-top: 20px;
-  margin-bottom: 0px;
+  margin-bottom: 0;
   border-top: 3px solid black;
-}
-#narrative-stories {
-  border-top: 3px solid black;
-  margin-top: 50px;
 }
 #reports {
   border-top: 3px solid black;
