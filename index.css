@@ -4,6 +4,10 @@ body,html {
   margin: auto;
   padding: 1em;
 }
+#aboutme-img {
+  width: 140px;
+  height: 140px;
+}
 section {
   position: relative;
 }
@@ -28,16 +32,8 @@ p {
 }
 #work {
   margin-top: 70px;
-  margin-bottom: 150px;
-}
-#dashboards {
-  margin-top: 20px;
-  margin-bottom: 0px;
+  margin-bottom: 0;
   border-top: 3px solid black;
-}
-#narrative-stories {
-  border-top: 3px solid black;
-  margin-top: 50px;
 }
 #reports {
   border-top: 3px solid black;
@@ -72,6 +68,9 @@ a {
   line-height: 1;
   color: black;
   font-weight: 700;
+}
+a:hover {
+  color: #0076B2;
 }
 h2 {
   margin-top: 3px;
