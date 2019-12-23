@@ -34,6 +34,7 @@ p {
   font-size: 16px;
   font-weight: 300;
   line-height: 1.7;
+  a { font-size: 16px; }
 }
 section {
   position: relative;
@@ -42,9 +43,6 @@ ul {
   list-style-type: none;
   margin: 0 auto;
   padding: 0;
-}
-.tertiary-link {
-  font-size: 14px;
 }
 
 .section--bio {
@@ -58,7 +56,6 @@ ul {
 }
 .aboutme-text {
   flex-grow: 1;
-  a { font-size: 16px; }
 }
 .aboutme-social-container {
   display: flex;
