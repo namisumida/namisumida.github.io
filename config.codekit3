@@ -53,50 +53,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/icons/biopharma-bankruptcy.png": {
-		"ft": 32768,
-		"iS": 33196,
-		"oA": 0,
-		"oAP": "/icons/biopharma-bankruptcy.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/icons/chyrons.jpg": {
-		"ft": 16384,
-		"iS": 13295,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/icons/chyrons.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/icons/dtc-stores.png": {
-		"ft": 32768,
-		"iS": 127597,
-		"oA": 0,
-		"oAP": "/icons/dtc-stores.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/icons/food-protein.jpg": {
-		"ft": 16384,
-		"iS": 673301,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/icons/food-protein.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"/icons/Github.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -172,17 +128,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/icons/restaurant-expansion.png": {
-		"ft": 32768,
-		"iS": 225018,
-		"oA": 0,
-		"oAP": "/icons/restaurant-expansion.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"/icons/retail-execs.jpg": {
 		"ft": 16384,
 		"iS": 547173,
@@ -225,17 +170,6 @@
 		"opt": 0,
 		"plM": 52780316221407,
 		"prP": 0
-		},
-	"/icons/ultimate.jpg": {
-		"ft": 16384,
-		"iS": 31129,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/icons/ultimate.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
 		},
 	"/img.jpg": {
 		"ft": 16384,
