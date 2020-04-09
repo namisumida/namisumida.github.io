@@ -53,6 +53,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/icons/construction-map.png": {
+		"ft": 32768,
+		"iS": 257782,
+		"oA": 0,
+		"oAP": "/icons/construction-map.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/icons/education-reportcards.png": {
+		"ft": 32768,
+		"iS": 169459,
+		"oA": 0,
+		"oAP": "/icons/education-reportcards.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/icons/Github.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -134,17 +156,6 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/icons/retail-execs.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/icons/standards.jpg": {
-		"ft": 16384,
-		"iS": 29475,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/icons/standards.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
