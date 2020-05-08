@@ -161,6 +161,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/icons/standards.png": {
+		"ft": 32768,
+		"iS": 125903,
+		"oA": 0,
+		"oAP": "/icons/standards.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/icons/superbowl-tracker.jpg": {
 		"ft": 16384,
 		"iS": 368402,
