@@ -42,11 +42,11 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/icons/banking2020.png": {
+	"/icons/biopharma-vc.png": {
 		"ft": 32768,
-		"iS": 265701,
+		"iS": 150285,
 		"oA": 0,
-		"oAP": "/icons/banking2020.png",
+		"oAP": "/icons/biopharma-vc.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -117,17 +117,6 @@
 		"plM": 52780316221407,
 		"prP": 0
 		},
-	"/icons/mayoral-tracker.png": {
-		"ft": 32768,
-		"iS": 1813843,
-		"oA": 0,
-		"oAP": "/icons/mayoral-tracker.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"/icons/nexus.jpg": {
 		"ft": 16384,
 		"iS": 50277,
@@ -150,17 +139,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/icons/retail-execs.jpg": {
-		"ft": 16384,
-		"iS": 547173,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/icons/retail-execs.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"/icons/standards.png": {
 		"ft": 32768,
 		"iS": 125903,
@@ -170,17 +148,6 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
-		"q": 100
-		},
-	"/icons/superbowl-tracker.jpg": {
-		"ft": 16384,
-		"iS": 368402,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/icons/superbowl-tracker.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
 		"q": 100
 		},
 	"/icons/Twitter.svg": {
