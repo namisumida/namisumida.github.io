@@ -3,13 +3,6 @@ body {
   margin: 4rem auto;
   max-width: 650px;
 }
-a {
-  color: black;
-  font-size: 18px;
-  font-weight: 700;
-  line-height: 1;
-  text-decoration: none;
-}
 a:hover {
   color: #0076B2;
   text-decoration: underline;
@@ -102,6 +95,19 @@ ul {
   display: flex;
   line-height: 1.7;
   margin: 3rem 0;
+  &-title {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.2;
+    a {
+      color: #000;
+      text-decoration: none;
+    }
+    a:hover {
+      color: #0076B2;
+      text-decoration: underline;
+    }
+  }
 }
 .explanation {
   margin: 0.5rem auto 0 auto;
