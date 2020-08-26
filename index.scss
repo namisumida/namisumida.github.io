@@ -1,32 +1,31 @@
 body {
-  font-family: "Segoe UI","Helvetica Neue",Arial,sans-serif;
   margin: 4rem 1rem;
-}
-a:hover {
-  color: #0076B2;
-  text-decoration: underline;
+  a {
+    color: #000;
+  }
+  a:hover {
+    color: #414192;
+    text-decoration: underline;
+  }
 }
 .title {
   font-size: 45px;
-  font-weight: 800;
+  font-weight: 900;
   margin: 50px auto 0 auto;
   text-align: center;
 }
 h2 {
   flex-grow: 1;
+  font-family: 'Open Sans', sans-serif;
   font-size: 15px;
-  font-weight: 800;
+  font-weight: 700;
   margin: 0;
   text-transform: uppercase;
 }
-h4 {
-  font-size: 17px;
-  font-weight: 700;
-  margin:0;
-}
 p {
-  font-size: 16px;
-  font-weight: 300;
+  font-family: 'Merriweather', serif;
+  font-size: 15px;
+  font-weight: 400;
   line-height: 1.7;
   a { font-size: 16px; }
 }
@@ -51,9 +50,8 @@ ul {
   max-width: 650px;
   &__img {
     display: block;
-    margin: 0 auto;
   }
-  &__text { margin: 2rem 0 0 0; }
+  &__text { margin: 1rem 0 0 0; }
   &__social { display: none; }
   &__social__icon {
     border-radius: 50%;
@@ -79,7 +77,9 @@ ul {
   &__item {
     background-color: #F2F5F8;
     display: inline-block;
+    font-family: 'Open Sans', sans-serif;
     font-size: 12px;
+    font-weight: 300;
     line-height: 1.3;
     margin: 0.5rem 0.5rem 0.5rem 0;
     padding: 0.2rem 0.5rem;
@@ -91,24 +91,14 @@ ul {
 .item {
   border-bottom: 1px solid #E9ECEF;
   display: block;
-  line-height: 1.7;
-  margin: 1.5rem 0;
   padding: 2rem 0;
   &__title {
+    font-family: 'Merriweather', serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.2;
-    a {
-      color: #000;
-      text-decoration: none;
-    }
-    a:hover {
-      color: #0076B2;
-      text-decoration: underline;
-    }
+    line-height: 1.5;
   }
   &__explanation {
-    line-height: 1.4;
     margin: 0.5rem auto;
   }
   &__imgContainer { margin: 0 0 0.5rem 0; }
