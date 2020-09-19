@@ -53,6 +53,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/icons/ceo-pay.png": {
+		"ft": 32768,
+		"iS": 167765,
+		"oA": 0,
+		"oAP": "/icons/ceo-pay.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/icons/construction-map.png": {
 		"ft": 32768,
 		"iS": 257782,
