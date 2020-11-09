@@ -150,6 +150,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/icons/scd-rail.png": {
+		"ft": 32768,
+		"iS": 56073,
+		"oA": 0,
+		"oAP": "/icons/scd-rail.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/icons/standards.png": {
 		"ft": 32768,
 		"iS": 125903,
