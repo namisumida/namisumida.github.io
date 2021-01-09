@@ -98,6 +98,9 @@ ul {
     font-size: 18px;
     font-weight: 700;
     line-height: 1.5;
+    a {
+        text-decoration: none;
+    }
   }
   &__explanation {
     margin: 0.5rem auto;

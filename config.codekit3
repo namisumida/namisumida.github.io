@@ -150,6 +150,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/icons/retail-timeline.png": {
+		"ft": 32768,
+		"iS": 115768,
+		"oA": 0,
+		"oAP": "/icons/retail-timeline.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/icons/scd-rail.png": {
 		"ft": 32768,
 		"iS": 56073,
