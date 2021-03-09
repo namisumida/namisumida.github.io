@@ -22,6 +22,19 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/headshot2.jpg": {
+		"ft": 16384,
+		"iS": 335193,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/headshot2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/icons/alcohol.jpg": {
 		"ft": 16384,
 		"iS": 68173,
