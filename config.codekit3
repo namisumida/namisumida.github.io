@@ -9,19 +9,6 @@
 	],
 "creatorBuild": "33081",
 "files": {
-	"/headshot.jpg": {
-		"ft": 16384,
-		"iS": 284104,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/headshot.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"ou": "lpckwebp-none",
-		"q": 100,
-		"rq": 75
-		},
 	"/headshot2.jpg": {
 		"ft": 16384,
 		"iS": 335193,
@@ -35,24 +22,37 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/icons/alcohol.jpg": {
-		"ft": 16384,
-		"iS": 68173,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/icons/alcohol.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"ou": "lpckwebp-none",
-		"q": 100,
-		"rq": 75
-		},
 	"/icons/biopharma-vc.png": {
 		"ft": 32768,
 		"iS": 172594,
 		"oA": 0,
 		"oAP": "/icons/biopharma-vc.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/icons/bpd-biotech.png": {
+		"ft": 32768,
+		"iS": 76695,
+		"oA": 0,
+		"oAP": "/icons/bpd-biotech.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/icons/bpd-vaccine.png": {
+		"ft": 32768,
+		"iS": 78621,
+		"oA": 0,
+		"oAP": "/icons/bpd-vaccine.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -74,32 +74,6 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/icons/construction-map.png": {
-		"ft": 32768,
-		"iS": 257782,
-		"oA": 0,
-		"oAP": "/icons/construction-map.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"ou": "lpckwebp-none",
-		"q": 100,
-		"rq": 75
-		},
-	"/icons/education-reportcards.png": {
-		"ft": 32768,
-		"iS": 184410,
-		"oA": 0,
-		"oAP": "/icons/education-reportcards.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"ou": "lpckwebp-none",
-		"q": 100,
-		"rq": 75
-		},
 	"/icons/Github.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -109,19 +83,6 @@
 		"opt": 0,
 		"plM": 52780316221407,
 		"prP": 0
-		},
-	"/icons/house.jpg": {
-		"ft": 16384,
-		"iS": 24904,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/icons/house.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"ou": "lpckwebp-none",
-		"q": 100,
-		"rq": 75
 		},
 	"/icons/junglepath.jpg": {
 		"ft": 16384,
@@ -146,28 +107,15 @@
 		"plM": 52780316221407,
 		"prP": 0
 		},
-	"/icons/nexus.jpg": {
-		"ft": 16384,
-		"iS": 50277,
-		"jF": 0,
+	"/icons/retail-dtc.png": {
+		"ft": 32768,
+		"iS": 125716,
 		"oA": 0,
-		"oAP": "/icons/nexus.jpg",
+		"oAP": "/icons/retail-dtc.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"ou": "lpckwebp-none",
-		"q": 100,
-		"rq": 75
-		},
-	"/icons/pairs.jpg": {
-		"ft": 16384,
-		"iS": 54548,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/icons/pairs.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oT": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
@@ -190,19 +138,6 @@
 		"iS": 56073,
 		"oA": 0,
 		"oAP": "/icons/scd-rail.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"ou": "lpckwebp-none",
-		"q": 100,
-		"rq": 75
-		},
-	"/icons/standards.png": {
-		"ft": 32768,
-		"iS": 125903,
-		"oA": 0,
-		"oAP": "/icons/standards.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,

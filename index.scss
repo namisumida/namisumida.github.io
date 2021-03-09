@@ -1,5 +1,6 @@
 body {
   margin: 2rem 1rem;
+  max-width: 420px;
 }
 .title {
   font-family: 'Merriweather', serif;
@@ -90,12 +91,22 @@ ul {
     margin: 0.5rem auto;
   }
   &__imgContainer { margin: 0 0 0.5rem 0; }
-  &__img { width: 100%; }
+  &__img {
+    margin-bottom: 0.5rem;
+    max-width: 350px;
+    width: 100%;
+  }
 }
-
-
-
+@media screen and (min-width: 450px) {
+  body {
+    margin: 2rem auto;
+  }
+}
 @media screen and (min-width: 600px) {
+  body {
+    margin: 2rem 1rem;
+    max-width: 650px;
+  }
   .aboutme {
     &__img {
       margin: 0 2.5rem 2.5rem 0;
@@ -109,7 +120,10 @@ ul {
   .item {
     display: flex;
     &__imgContainer { margin: 0 2rem 2rem 0; }
-    &__img { width: 200px; }
+    &__img {
+      margin-bottom: 0;
+      width: 200px;
+    }
   }
 }
 
@@ -117,6 +131,5 @@ ul {
   body {
     margin-left: auto;
     margin-right: auto;
-    max-width: 650px;
   }
 }
