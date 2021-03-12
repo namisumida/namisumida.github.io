@@ -74,6 +74,19 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/icons/ghost-calculator.png": {
+		"ft": 32768,
+		"iS": 28170,
+		"oA": 0,
+		"oAP": "/icons/ghost-calculator.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/icons/Github.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -83,6 +96,19 @@
 		"opt": 0,
 		"plM": 52780316221407,
 		"prP": 0
+		},
+	"/icons/healthcare-sutter.png": {
+		"ft": 32768,
+		"iS": 52112,
+		"oA": 0,
+		"oAP": "/icons/healthcare-sutter.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/icons/junglepath.jpg": {
 		"ft": 16384,
