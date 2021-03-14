@@ -76,7 +76,9 @@ ul {
   display: block;
 }
 .item {
-  margin: 0 0 3rem;
+  border-bottom: 1px solid #E9ECEF;
+  margin: 0 0 2rem;
+  padding-bottom: 1.5rem;
 
   &__title {
     font-family: 'Merriweather', serif;
@@ -90,11 +92,8 @@ ul {
   &__explanation {
     margin: 0.5rem auto;
   }
-  &__imgContainer { margin: 0 0 0.5rem 0; }
   &__img {
-    margin-bottom: 0.5rem;
-    max-width: 350px;
-    width: 100%;
+    display: none;
   }
 }
 @media screen and (min-width: 450px) {
@@ -118,9 +117,13 @@ ul {
   .header { display: flex; }
 
   .item {
+    border-bottom: none; 
     display: flex;
+    padding-bottom: 0;
+
     &__imgContainer { margin: 0 2rem 2rem 0; }
     &__img {
+      display: block;
       margin-bottom: 0;
       width: 260px;
     }
