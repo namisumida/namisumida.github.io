@@ -22,19 +22,6 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/icons/biopharma-vc.png": {
-		"ft": 32768,
-		"iS": 172594,
-		"oA": 0,
-		"oAP": "/icons/biopharma-vc.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"ou": "lpckwebp-none",
-		"q": 100,
-		"rq": 75
-		},
 	"/icons/bpd-biotech.png": {
 		"ft": 32768,
 		"iS": 76695,
@@ -61,11 +48,50 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/icons/bridge-tolls.jpg": {
+		"ft": 16384,
+		"iS": 61522,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/icons/bridge-tolls.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/icons/ceo-pay.png": {
 		"ft": 32768,
 		"iS": 167765,
 		"oA": 0,
 		"oAP": "/icons/ceo-pay.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/icons/covid-quiz.jpeg": {
+		"ft": 16384,
+		"iS": 36479,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/icons/covid-quiz.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/icons/five-maps.png": {
+		"ft": 32768,
+		"iS": 97309,
+		"oA": 0,
+		"oAP": "/icons/five-maps.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -97,19 +123,6 @@
 		"plM": 52780316221407,
 		"prP": 0
 		},
-	"/icons/healthcare-sutter.png": {
-		"ft": 32768,
-		"iS": 52112,
-		"oA": 0,
-		"oAP": "/icons/healthcare-sutter.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"ou": "lpckwebp-none",
-		"q": 100,
-		"rq": 75
-		},
 	"/icons/junglepath.jpg": {
 		"ft": 16384,
 		"iS": 351715,
@@ -133,15 +146,41 @@
 		"plM": 52780316221407,
 		"prP": 0
 		},
-	"/icons/retail-dtc.png": {
-		"ft": 32768,
-		"iS": 125716,
+	"/icons/mobility.jpeg": {
+		"ft": 16384,
+		"iS": 179753,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/icons/retail-dtc.png",
+		"oAP": "/icons/mobility.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/icons/parking-meters.jpeg": {
+		"ft": 16384,
+		"iS": 315392,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/icons/parking-meters.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/icons/ppp-banks.jpeg": {
+		"ft": 16384,
+		"iS": 172319,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/icons/ppp-banks.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
@@ -159,15 +198,15 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/icons/scd-rail.png": {
-		"ft": 32768,
-		"iS": 56073,
+	"/icons/streets.jpeg": {
+		"ft": 16384,
+		"iS": 44480,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/icons/scd-rail.png",
+		"oAP": "/icons/streets.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
@@ -181,6 +220,19 @@
 		"opt": 0,
 		"plM": 52780316221407,
 		"prP": 0
+		},
+	"/icons/weekend-traffic.png": {
+		"ft": 32768,
+		"iS": 30613,
+		"oA": 0,
+		"oAP": "/icons/weekend-traffic.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/img.jpg": {
 		"ft": 16384,
