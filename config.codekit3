@@ -234,15 +234,15 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/img.jpg": {
+	"/img2.jpg": {
 		"ft": 16384,
-		"iS": 5709,
+		"iS": 5042468,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/img.jpg",
+		"oAP": "/img2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
