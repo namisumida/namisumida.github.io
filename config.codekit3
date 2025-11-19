@@ -9,12 +9,25 @@
 	],
 "creatorBuild": "33081",
 "files": {
-	"/headshot2.jpg": {
+	"/election.jpg": {
 		"ft": 16384,
-		"iS": 335193,
+		"iS": 128159,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/headshot2.jpg",
+		"oAP": "/election.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/headshot3.jpg": {
+		"ft": 16384,
+		"iS": 35466,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/headshot3.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -54,19 +67,6 @@
 		"opt": 0,
 		"plM": 52780316221407,
 		"prP": 0
-		},
-	"/img2.jpg": {
-		"ft": 16384,
-		"iS": 5042468,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/img2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"ou": "lpckwebp-none",
-		"q": 100,
-		"rq": 75
 		},
 	"/index.css": {
 		"aP": 1,

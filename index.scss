@@ -48,10 +48,10 @@ section {
   max-width: 650px;
   &__img {
     display: block;
-    border-radius: 50%;
-    height: 180px;
+    // border-radius: 50%;
+    // height: 180px;
     margin: 0 auto 2rem auto;
-    min-width: 180px;
+    width: 180px;
   }
   &__text {
     margin: 1rem 0;
